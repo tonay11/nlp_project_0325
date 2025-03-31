@@ -20,8 +20,8 @@ word_vectors-1 <br/>
 
 ## Week 4
 AI Text Remix Battle <br/>
-Markov vs. RNN.<br/>
+[Markov vs. RNN](https://colab.research.google.com/drive/1DJON_g_tUAPA91aDKezo8GlP6rV0RS9i?usp=share_link).<br/>
 
 ## Week 5
 eliza-main <br/>
-transformers <br/>
+[transformers](https://colab.research.google.com/drive/1EqvjAxMZ5JuM7XXjRdSk1aE-vWIhMjUN?usp=sharing) <br/>
