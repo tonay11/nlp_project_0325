@@ -2,6 +2,7 @@
  
 ## Project
 
+
 ## Week 1
 Text as Numbers<br/>
 Cut up machine<br/>
@@ -25,3 +26,7 @@ AI Text Remix Battle <br/>
 ## Week 5
 eliza-main <br/>
 [transformers](https://colab.research.google.com/drive/1EqvjAxMZ5JuM7XXjRdSk1aE-vWIhMjUN?usp=sharing) <br/>
+
+## Other project ideas
+
+[what_should_i_order_at_the_cafe_bot](https://colab.research.google.com/drive/11v6H8YwSGvMPvZBPaYtWJ9OFRpgvSPf8?usp=share_link)
