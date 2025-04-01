@@ -1,7 +1,8 @@
 # NLP project 0325
  
 ## Project
-[YouTube Sentiment Analysis](https://github.com/tonay11/nlp_project_0325/blob/main/youtube-sentiment-analysis/youtube-sentiment-analysis-different%20ways%20env.ipynb)
+[YouTube Sentiment Analysis](https://github.com/tonay11/nlp_project_0325/blob/main/youtube-sentiment-analysis/youtube-sentiment-analysis-different%20ways%20env.ipynb)<br/>
+[Report](https://github.com/tonay11/nlp_project_0325/blob/main/Natural%20Language%20Processing%20for%20Creatives-%20Project%20report.pdf)
 
 ## Week 1
 [Text as Numbers](https://github.com/tonay11/nlp_project_0325/blob/main/2025_02/session_1/Text%20as%20Numbers.ipynb)<br/>
